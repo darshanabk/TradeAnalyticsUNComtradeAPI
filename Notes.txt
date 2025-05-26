@@ -1,1 +1,2 @@
-Uing Public-v1 of UN Comtrade developer (un.org)
+using Public-v1 of UN Comtrade developer (un.org)
+https://comtradedeveloper.un.org/product#product=free
