@@ -1,2 +1,4 @@
 using Public-v1 of UN Comtrade developer (un.org)
 https://comtradedeveloper.un.org/product#product=free
+
+to check the subscription primary and secondary ke - https://comtradedeveloper.un.org/profile
