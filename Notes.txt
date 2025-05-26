@@ -2,3 +2,10 @@ using Public-v1 of UN Comtrade developer (un.org)
 https://comtradedeveloper.un.org/product#product=free
 
 to check the subscription primary and secondary ke - https://comtradedeveloper.un.org/profile
+
+
+| Use Case                                   | Recommended API       | Why?                            |
+| ------------------------------------------ | --------------------- | ------------------------------- |
+| Fetching trade flow data (imports/exports) | `comtrade - v1`       | Full data access with keys      |
+| Looking up HS codes / country codes        | `Comtrade Tools - v1` | Helps configure your queries    |
+| Quick testing or lightweight usage         | `public - v1`         | No auth needed, just test calls |
